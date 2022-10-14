@@ -33,7 +33,7 @@ For more information please look into the `copy.html` file.
 
 - Drop a :star: on the Github repository (optional)<br/>
 
-- Before Contribute Please read [CONTRIBUTING.md](https://github.com/Diptenusarkar/html.org.in/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/Diptenusarkar/html.org.in/blob/master/CODE_OF_CONDUCT.md)
+- Before Contribute Please read `How will you contribute` in the above section and [CODE_OF_CONDUCT.md](https://github.com/Diptenusarkar/html.org.in/blob/master/CODE_OF_CONDUCT.md)
 
 - Create an issue of the project or a feature you would like to add in the project and get the task assigned for youself.(Issue can be any bug fixes or any feature you want to add in this project).
 
